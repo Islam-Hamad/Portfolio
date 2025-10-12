@@ -1,5 +1,5 @@
 {
-  "homepage": "https://islams-hamads.github.io/Portfolio/",
+  "homepage": "https://islam-hamad.github.io/Portfolio/",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
